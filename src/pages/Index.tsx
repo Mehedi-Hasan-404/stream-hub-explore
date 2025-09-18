@@ -161,6 +161,8 @@ const Index = () => {
                 <a href="#" className="hover:text-primary transition-colors">Privacy</a>
                 <a href="#" className="hover:text-primary transition-colors">Terms</a>
                 <a href="#" className="hover:text-primary transition-colors">Support</a>
+                <a href="/auth" className="hover:text-primary transition-colors">Login</a>
+                <a href="/admin" className="hover:text-primary transition-colors">Admin</a>
               </div>
               <div className="mt-6 pt-6 border-t border-border/50">
                 <p className="text-xs text-muted-foreground">
